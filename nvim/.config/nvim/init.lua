@@ -42,3 +42,4 @@ vim.schedule(function()
   require "mappings"
 end)
 vim.opt.clipboard = "unnamedplus"
+vim.opt.scrolloff = 20
